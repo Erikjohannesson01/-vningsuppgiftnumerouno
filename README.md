@@ -1,1 +1,1 @@
-Hej.
+Vi är den bästa gruppen!
