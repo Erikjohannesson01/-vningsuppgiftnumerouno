@@ -1,1 +1,419 @@
-Litet test med en ny branch
+säsäddäötet dda tedt en y brdsadanch<!DOCTYPE html>
+<html class="client-nojs" lang="sv" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia, den fria encyklopedin</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"],"wgRequestId":"02e8dd3a-11aa-4db3-8751-7091464b55c4","wgCSPNonce":!1,"wgCanonicalNamespace":"Portal","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":100,"wgPageName":"Portal:Huvudsida","wgTitle":"Huvudsida","wgCurRevisionId":49272499,"wgRevisionId":49272499,"wgArticleId":902605,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Huvudsida"],"wgPageContentLanguage":"sv","wgPageContentModel":"wikitext","wgRelevantPageName":"Portal:Huvudsida","wgRelevantArticleId":902605,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],
+"wgIsMainPage":!0,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"sv","pageLanguageDir":"ltr","pageVariantFallbacks":"sv"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"svenska","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q5296"};RLSTATE={"ext.gadget.mainpage":"ready","ext.gadget.babel":"ready","ext.gadget.geo":"ready","ext.gadget.warnings":"ready","ext.gadget.tags":"ready","ext.gadget.error":"ready","ext.gadget.printonly":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.editsection0","ext.gadget.EdittoolsAboveSummary","ext.gadget.Namespace-sensitiveEdittools","ext.gadget.Fullscreen","ext.gadget.Teckenstorlek","ext.gadget.ValValidering","ext.gadget.labelfilter","ext.gadget.ReferenceTooltips","ext.gadget.ProtectionIndicators","ext.gadget.GeoboxLocatorMulti","ext.gadget.Noarticletext","ext.gadget.InterwikiBadges","ext.gadget.collapsibleTables","ext.gadget.RecentChangesAdminNoms","ext.gadget.RecentChangesSFFR","ext.gadget.RecentChangesSnabbraderingar","ext.gadget.RecentChangesHelp","ext.gadget.RecentChangesProbCat","ext.gadget.RecentChangesAvblockering","ext.gadget.ExternalSearchEngines","ext.gadget.Wdsearch",
+"ext.gadget.UppladdningarContentSub","ext.gadget.IP-whois","ext.gadget.GroupIndicators","ext.gadget.BlockIndicator","ext.gadget.NewSection","ext.gadget.KategoriTOC","ext.gadget.teahouse","ext.gadget.ExkluderaRobotskapadeSidor","ext.gadget.LocalHelpLinks","ext.gadget.Nearby","ext.gadget.InterProjectLinks","ext.gadget.cgiircbox","ext.gadget.withJS","ext.gadget.CommonsFileLinks","ext.gadget.tableSorterCollation","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"sv"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=sv&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=ext.gadget.babel%2Cerror%2Cgeo%2Cmainpage%2Cprintonly%2Ctags%2Cwarnings&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.37.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:title" content="Wikipedia, den fria encyklopedin"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//sv.m.wikipedia.org/wiki/Portal:Huvudsida"/>
+<link rel="alternate" typ<!DOCTYPE html>
+<html class="client-nojs" lang="sv" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia, den fria encyklopedin</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"],"wgRequestId":"02e8dd3a-11aa-4db3-8751-7091464b55c4","wgCSPNonce":!1,"wgCanonicalNamespace":"Portal","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":100,"wgPageName":"Portal:Huvudsida","wgTitle":"Huvudsida","wgCurRevisionId":49272499,"wgRevisionId":49272499,"wgArticleId":902605,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Huvudsida"],"wgPageContentLanguage":"sv","wgPageContentModel":"wikitext","wgRelevantPageName":"Portal:Huvudsida","wgRelevantArticleId":902605,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],
+"wgIsMainPage":!0,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"sv","pageLanguageDir":"ltr","pageVariantFallbacks":"sv"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"svenska","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q5296"};RLSTATE={"ext.gadget.mainpage":"ready","ext.gadget.babel":"ready","ext.gadget.geo":"ready","ext.gadget.warnings":"ready","ext.gadget.tags":"ready","ext.gadget.error":"ready","ext.gadget.printonly":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.editsection0","ext.gadget.EdittoolsAboveSummary","ext.gadget.Namespace-sensitiveEdittools","ext.gadget.Fullscreen","ext.gadget.Teckenstorlek","ext.gadget.ValValidering","ext.gadget.labelfilter","ext.gadget.ReferenceTooltips","ext.gadget.ProtectionIndicators","ext.gadget.GeoboxLocatorMulti","ext.gadget.Noarticletext","ext.gadget.InterwikiBadges","ext.gadget.collapsibleTables","ext.gadget.RecentChangesAdminNoms","ext.gadget.RecentChangesSFFR","ext.gadget.RecentChangesSnabbraderingar","ext.gadget.RecentChangesHelp","ext.gadget.RecentChangesProbCat","ext.gadget.RecentChangesAvblockering","ext.gadget.ExternalSearchEngines","ext.gadget.Wdsearch",
+"ext.gadget.UppladdningarContentSub","ext.gadget.IP-whois","ext.gadget.GroupIndicators","ext.gadget.BlockIndicator","ext.gadget.NewSection","ext.gadget.KategoriTOC","ext.gadget.teahouse","ext.gadget.ExkluderaRobotskapadeSidor","ext.gadget.LocalHelpLinks","ext.gadget.Nearby","ext.gadget.InterProjectLinks","ext.gadget.cgiircbox","ext.gadget.withJS","ext.gadget.CommonsFileLinks","ext.gadget.tableSorterCollation","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"sv"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=sv&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=ext.gadget.babel%2Cerror%2Cgeo%2Cmainpage%2Cprintonly%2Ctags%2Cwarnings&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.37.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:title" content="Wikipedia, den fria encyklopedin"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" me<!DOCTYPE html>
+<html class="client-nojs" lang="sv" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia, den fria encyklopedin</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"],"wgRequestId":"02e8dd3a-11aa-4db3-8751-7091464b55c4","wgCSPNonce":!1,"wgCanonicalNamespace":"Portal","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":100,"wgPageName":"Portal:Huvudsida","wgTitle":"Huvudsida","wgCurRevisionId":49272499,"wgRevisionId":49272499,"wgArticleId":902605,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Huvudsida"],"wgPageContentLanguage":"sv","wgPageContentModel":"wikitext","wgRelevantPageName":"Portal:Huvudsida","wgRelevantArticleId":902605,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],
+"wgIsMainPage":!0,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"sv","pageLanguageDir":"ltr","pageVariantFallbacks":"sv"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"svenska","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q5296"};RLSTATE={"ext.gadget.mainpage":"ready","ext.gadget.babel":"ready","ext.gadget.geo":"ready","ext.gadget.warnings":"ready","ext.gadget.tags":"ready","ext.gadget.error":"ready","ext.gadget.printonly":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.editsection0","ext.gadget.EdittoolsAboveSummary","ext.gadget.Namespace-sensitiveEdittools","ext.gadget.Fullscreen","ext.gadget.Teckenstorlek","ext.gadget.ValValidering","ext.gadget.labelfilter","ext.gadget.ReferenceTooltips","ext.gadget.ProtectionIndicators","ext.gadget.GeoboxLocatorMulti","ext.gadget.Noarticletext","ext.gadget.InterwikiBadges","ext.gadget.collapsibleTables","ext.gadget.RecentChangesAdminNoms","ext.gadget.RecentChangesSFFR","ext.gadget.RecentChangesSnabbraderingar","ext.gadget.RecentChangesHelp","ext.gadget.RecentChangesProbCat","ext.gadget.RecentChangesAvblockering","ext.gadget.ExternalSearchEngines","ext.gadget.Wdsearch",
+"ext.gadget.UppladdningarContentSub","ext.gadget.IP-whois","ext.gadget.GroupIndicators","ext.gadget.BlockIndicator","ext.gadget.NewSection","ext.gadget.KategoriTOC","ext.gadget.teahouse","ext.gadget.ExkluderaRobotskapadeSidor","ext.gadget.LocalHelpLinks","ext.gadget.Nearby","ext.gadget.InterProjectLinks","ext.gadget.cgiircbox","ext.gadget.withJS","ext.gadget.CommonsFileLinks","ext.gadget.tableSorterCollation","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"sv"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=sv&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=ext.gadget.babel%2Cerror%2Cgeo%2Cmainpage%2Cprintonly%2Ctags%2Cwarnings&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.37.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:title" content="Wikipedia, den fria encyklopedin"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//sv.m.wikipedia.org/wiki/Portal:Huvudsida"/>
+<link rel="alternate" t<!DOCTYPE html>
+<html class="client-nojs" lang="sv" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia, den fria encyklopedin</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"],"wgRequestId":"02e8dd3a-11aa-4db3-8751-7091464b55c4","wgCSPNonce":!1,"wgCanonicalNamespace":"Portal","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":100,"wgPageName":"Portal:Huvudsida","wgTitle":"Huvudsida","wgCurRevisionId":49272499,"wgRevisionId":49272499,"wgArticleId":902605,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Huvudsida"],"wgPageContentLanguage":"sv","wgPageContentModel":"wikitext","wgRelevantPageName":"Portal:Huvudsida","wgRelevantArticleId":902605,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],
+"wgIsMainPage":!0,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"sv","pageLanguageDir":"ltr","pageVariantFallbacks":"sv"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"svenska","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q5296"};RLSTATE={"ext.gadget.mainpage":"ready","ext.gadget.babel":"ready","ext.gadget.geo":"ready","ext.gadget.warnings":"ready","ext.gadget.tags":"ready","ext.gadget.error":"ready","ext.gadget.printonly":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.editsection0","ext.gadget.EdittoolsAboveSummary","ext.gadget.Namespace-sensitiveEdittools","ext.gadget.Fullscreen","ext.gadget.Teckenstorlek","ext.gadget.ValValidering","ext.gadget.labelfilter","ext.gadget.ReferenceTooltips","ext.gadget.ProtectionIndicators","ext.gadget.GeoboxLocatorMulti","ext.gadget.Noarticletext","ext.gadget.InterwikiBadges","ext.gadget.collapsibleTables","ext.gadget.RecentChangesAdminNoms","ext.gadget.RecentChangesSFFR","ext.gadget.RecentChangesSnabbraderingar","ext.gadget.RecentChangesHelp","ext.gadget.RecentChangesProbCat","ext.gadget.RecentChangesAvblockering","ext.gadget.ExternalSearchEngines","ext.gadget.Wdsearch",
+"ext.gadget.UppladdningarContentSub","ext.gadget.IP-whois","ext.gadget.GroupIndicators","ext.gadget.BlockIndicator","ext.gadget.NewSection","ext.gadget.KategoriTOC","ext.gadget.teahouse","ext.gadget.ExkluderaRobotskapadeSidor","ext.gadget.LocalHelpLinks","ext.gadget.Nearby","ext.gadget.InterProjectLinks","ext.gadget.cgiircbox","ext.gadget.withJS","ext.gadget.CommonsFileLinks","ext.gadget.tableSorterCollation","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"sv"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=sv&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=ext.gadget.babel%2Cerror%2Cgeo%2Cmainpage%2Cprintonly%2Ctags%2Cwarnings&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.37.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:title" content="Wikipedia, den fria encyklopedin"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//sv.m.wikipedia.org/wiki/Portal:Huvudsida"/>
+<link rel="alternate" <!DOCTYPE html>
+<html class="client-nojs" lang="sv" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia, den fria encyklopedin</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"],"wgRequestId":"02e8dd3a-11aa-4db3-8751-7091464b55c4","wgCSPNonce":!1,"wgCanonicalNamespace":"Portal","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":100,"wgPageName":"Portal:Huvudsida","wgTitle":"Huvudsida","wgCurRevisionId":49272499,"wgRevisionId":49272499,"wgArticleId":902605,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Huvudsida"],"wgPageContentLanguage":"sv","wgPageContentModel":"wikitext","wgRelevantPageName":"Portal:Huvudsida","wgRelevantArticleId":902605,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],
+"wgIsMainPage":!0,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"sv","pageLanguageDir":"ltr","pageVariantFallbacks":"sv"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"svenska","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q5296"};RLSTATE={"ext.gadget.mainpage":"ready","ext.gadget.babel":"ready","ext.gadget.geo":"ready","ext.gadget.warnings":"ready","ext.gadget.tags":"ready","ext.gadget.error":"ready","ext.gadget.printonly":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.editsection0","ext.gadget.EdittoolsAboveSummary","ext.gadget.Namespace-sensitiveEdittools","ext.gadget.Fullscreen","ext.gadget.Teckenstorlek","ext.gadget.ValValidering","ext.gadget.labelfilter","ext.gadget.ReferenceTooltips","ext.gadget.ProtectionIndicators","ext.gadget.GeoboxLocatorMulti","ext.gadget.Noarticletext","ext.gadget.InterwikiBadges","ext.gadget.collapsibleTables","ext.gadget.RecentChangesAdminNoms","ext.gadget.RecentChangesSFFR","ext.gadget.RecentChangesSnabbraderingar","ext.gadget.RecentChangesHelp","ext.gadget.RecentChangesProbCat","ext.gadget.RecentChangesAvblockering","ext.gadget.ExternalSearchEngines","ext.gadget.Wdsearch",
+"ext.gadget.UppladdningarContentSub","ext.gadget.IP-whois","ext.gadget.GroupIndicators","ext.gadget.BlockIndicator","ext.gadget.NewSection","ext.gadget.KategoriTOC","ext.gadget.teahouse","ext.gadget.ExkluderaRobotskapadeSidor","ext.gadget.LocalHelpLinks","ext.gadget.Nearby","ext.gadget.InterProjectLinks","ext.gadget.cgiircbox","ext.gadget.withJS","ext.gadget.CommonsFileLinks","ext.gadget.tableSorterCollation","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"sv"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=sv&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=ext.gadget.babel%2Cerror%2Cgeo%2Cmainpage%2Cprintonly%2Ctags%2Cwarnings&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.37.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:title" content="Wikipedia, den fria encyklopedin"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//sv.m.wikipedia.org/wiki/Portal:Huvudsida"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia flöde för utmärkta artiklar" href="/w/api.php?action=featuredfeed&amp<!DOCTYPE html>
+<html class="client-nojs" lang="sv" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia, den fria encyklopedin</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"],"wgRequestId":"02e8dd3a-11aa-4db3-8751-7091464b55c4","wgCSPNonce":!1,"wgCanonicalNamespace":"Portal","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":100,"wgPageName":"Portal:Huvudsida","wgTitle":"Huvudsida","wgCurRevisionId":49272499,"wgRevisionId":49272499,"wgArticleId":902605,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Huvudsida"],"wgPageContentLanguage":"sv","wgPageContentModel":"wikitext","wgRelevantPageName":"Portal:Huvudsida","wgRelevantArticleId":902605,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],
+"wgIsMainPage":!0,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"sv","pageLanguageDir":"ltr","pageVariantFallbacks":"sv"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"svenska","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q5296"};RLSTATE={"ext.gadget.mainpage":"ready","ext.gadget.babel":"ready","ext.gadget.geo":"ready","ext.gadget.warnings":"ready","ext.gadget.tags":"ready","ext.gadget.error":"ready","ext.gadget.printonly":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.editsection0","ext.gadget.EdittoolsAboveSummary","ext.gadget.Namespace-sensitiveEdittools","ext.gadget.Fullscreen","ext.gadget.Teckenstorlek","ext.gadget.ValValidering","ext.gadget.labelfilter","ext.gadget.ReferenceTooltips","ext.gadget.ProtectionIndicators","ext.gadget.GeoboxLocatorMulti","ext.gadget.Noarticletext","ext.gadget.InterwikiBadges","ext.gadget.collapsibleTables","ext.gadget.RecentChangesAdminNoms","ext.gadget.RecentChangesSFFR","ext.gadget.RecentChangesSnabbraderingar","ext.gadget.RecentChangesHelp","ext.gadget.RecentChangesProbCat","ext.gadget.RecentChangesAvblockering","ext.gadget.ExternalSearchEngines","ext.gadget.Wdsearch",
+"ext.gadget.UppladdningarContentSub","ext.gadget.IP-whois","ext.gadget.GroupIndicators","ext.gadget.BlockIndicator","ext.gadget.NewSection","ext.gadget.KategoriTOC","ext.gadget.teahouse","ext.gadget.ExkluderaRobotskapadeSidor","ext.gadget.LocalHelpLinks","ext.gadget.Nearby","ext.gadget.InterProjectLinks","ext.gadget.cgiircbox","ext.gadget.withJS","ext.gadget.CommonsFileLinks","ext.gadget.tableSorterCollation","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"sv"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=sv&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=ext.gadget.babel%2Cerror%2Cgeo%2Cmainpage%2Cprintonly%2Ctags%2Cwarnings&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.37.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:title" content="Wikipedia, den fria encyklopedin"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only scree<!DOCTYPE html>
+<html class="client-nojs" lang="sv" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia, den fria encyklopedin</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"],"wgRequestId":"02e8dd3a-11aa-4db3-8751-7091464b55c4","wgCSPNonce":!1,"wgCanonicalNamespace":"Portal","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":100,"wgPageName":"Portal:Huvudsida","wgTitle":"Huvudsida","wgCurRevisionId":49272499,"wgRevisionId":49272499,"wgArticleId":902605,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Huvudsida"],"wgPageContentLanguage":"sv","wgPageContentModel":"wikitext","wgRelevantPageName":"Portal:Huvudsida","wgRelevantArticleId":902605,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],
+"wgIsMainPage":!0,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"sv","pageLanguageDir":"ltr","pageVariantFallbacks":"sv"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"svenska","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q5296"};RLSTATE={"ext.gadget.mainpage":"ready","ext.gadget.babel":"ready","ext.gadget.geo":"ready","ext.gadget.warnings":"ready","ext.gadget.tags":"ready","ext.gadget.error":"ready","ext.gadget.printonly":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.editsection0","ext.gadget.EdittoolsAboveSummary","ext.gadget.Namespace-sensitiveEdittools","ext.gadget.Fullscreen","ext.gadget.Teckenstorlek","ext.gadget.ValValidering","ext.gadget.labelfilter","ext.gadget.ReferenceTooltips","ext.gadget.ProtectionIndicators","ext.gadget.GeoboxLocatorMulti","ext.gadget.Noarticletext","ext.gadget.InterwikiBadges","ext.gadget.collapsibleTables","ext.gadget.RecentChangesAdminNoms","ext.gadget.RecentChangesSFFR","ext.gadget.RecentChangesSnabbraderingar","ext.gadget.RecentChangesHelp","ext.gadget.RecentChangesProbCat","ext.gadget.RecentChangesAvblockering","ext.gadget.ExternalSearchEngines","ext.gadget.Wdsearch",
+"ext.gadget.UppladdningarContentSub","ext.gadget.IP-whois","ext.gadget.GroupIndicators","ext.gadget.BlockIndicator","ext.gadget.NewSection","ext.gadget.KategoriTOC","ext.gadget.teahouse","ext.gadget.ExkluderaRobotskapadeSidor","ext.gadget.LocalHelpLinks","ext.gadget.Nearby","ext.gadget.InterProjectLinks","ext.gadget.cgiircbox","ext.gadget.withJS","ext.gadget.CommonsFileLinks","ext.gadget.tableSorterCollation","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"sv"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=sv&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=ext.gadget.babel%2Cerror%2Cgeo%2Cmainpage%2Cprintonly%2Ctags%2Cwarnings&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.37.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:title" content="Wikipedia, den fria encyklopedin"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//sv.m.wikipedia.org/wiki/Portal:Huvudsida"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia flöde för utmärkta artiklar" href="/w/api.php?action=featuredfeed&amp;feed=featured&amp;feedformat=atom"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia flöde för &quot;Dagens datum...&quot;" href="/w/api.php?action=featuredfeed&amp;feed=onthisday&amp;feedformat=atom"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (sv)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//sv.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://sv.wikipedia.org/wiki/Portal:Huvudsida"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject page-Portal_Huvudsida rootpage-Portal_Huvudsida skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main"><!DOCTYPE html>
+<html class="client-nojs" lang="sv" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia, den fria encyklopedin</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"],"wgRequestId":"02e8dd3a-11aa-4db3-8751-7091464b55c4","wgCSPNonce":!1,"wgCanonicalNamespace":"Portal","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":100,"wgPageName":"Portal:Huvudsida","wgTitle":"Huvudsida","wgCurRevisionId":49272499,"wgRevisionId":49272499,"wgArticleId":902605,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Huvudsida"],"wgPageContentLanguage":"sv","wgPageContentModel":"wikitext","wgRelevantPageName":"Portal:Huvudsida","wgRelevantArticleId":902605,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],
+"wgIsMainPage":!0,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"sv","pageLanguageDir":"ltr","pageVariantFallbacks":"sv"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"svenska","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q5296"};RLSTATE={"ext.gadget.mainpage":"ready","ext.gadget.babel":"ready","ext.gadget.geo":"ready","ext.gadget.warnings":"ready","ext.gadget.tags":"ready","ext.gadget.error":"ready","ext.gadget.printonly":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.editsection0","ext.gadget.EdittoolsAboveSummary","ext.gadget.Namespace-sensitiveEdittools","ext.gadget.Fullscreen","ext.gadget.Teckenstorlek","ext.gadget.ValValidering","ext.gadget.labelfilter","ext.gadget.ReferenceTooltips","ext.gadget.ProtectionIndicators","ext.gadget.GeoboxLocatorMulti","ext.gadget.Noarticletext","ext.gadget.InterwikiBadges","ext.gadget.collapsibleTables","ext.gadget.RecentChangesAdminNoms","ext.gadget.RecentChangesSFFR","ext.gadget.RecentChangesSnabbraderingar","ext.gadget.RecentChangesHelp","ext.gadget.RecentChangesProbCat","ext.gadget.RecentChangesAvblockering","ext.gadget.ExternalSearchEngines","ext.gadget.Wdsearch",
+"ext.gadget.UppladdningarContentSub","ext.gadget.IP-whois","ext.gadget.GroupIndicators","ext.gadget.BlockIndicator","ext.gadget.NewSection","ext.gadget.KategoriTOC","ext.gadget.teahouse","ext.gadget.ExkluderaRobotskapadeSidor","ext.gadget.LocalHelpLinks","ext.gadget.Nearby","ext.gadget.InterProjectLinks","ext.gadget.cgiircbox","ext.gadget.withJS","ext.gadget.CommonsFileLinks","ext.gadget.tableSorterCollation","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"sv"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=sv&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=ext.gadget.babel%2Cerror%2Cgeo%2Cmainpage%2Cprintonly%2Ctags%2Cwarnings&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.37.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:title" content="Wikipedia, den fria encyklopedin"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//sv.m.wikipedia.org/wiki/Portal:Huvudsida"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia flöde för utmärkta artiklar" href="/w/api.php?action=featuredfeed&amp;feed=featured&amp;feedformat=<!DOCTYPE html>
+<html class="client-nojs" lang="sv" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia, den fria encyklopedin</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"],"wgRequestId":"02e8dd3a-11aa-4db3-8751-7091464b55c4","wgCSPNonce":!1,"wgCanonicalNamespace":"Portal","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":100,"wgPageName":"Portal:Huvudsida","wgTitle":"Huvudsida","wgCurRevisionId":49272499,"wgRevisionId":49272499,"wgArticleId":902605,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Huvudsida"],"wgPageContentLanguage":"sv","wgPageContentModel":"wikitext","wgRelevantPageName":"Portal:Huvudsida","wgRelevantArticleId":902605,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],
+"wgIsMainPage":!0,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"sv","pageLanguageDir":"ltr","pageVariantFallbacks":"sv"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"svenska","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q5296"};RLSTATE={"ext.gadget.mainpage":"ready","ext.gadget.babel":"ready","ext.gadget.geo":"ready","ext.gadget.warnings":"ready","ext.gadget.tags":"ready","ext.gadget.error":"ready","ext.gadget.printonly":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.editsection0","ext.gadget.EdittoolsAboveSummary","ext.gadget.Namespace-sensitiveEdittools","ext.gadget.Fullscreen","ext.gadget.Teckenstorlek","ext.gadget.ValValidering","ext.gadget.labelfilter","ext.gadget.ReferenceTooltips","ext.gadget.ProtectionIndicators","ext.gadget.GeoboxLocatorMulti","ext.gadget.Noarticletext","ext.gadget.InterwikiBadges","ext.gadget.collapsibleTables","ext.gadget.RecentChangesAdminNoms","ext.gadget.RecentChangesSFFR","ext.gadget.RecentChangesSnabbraderingar","ext.gadget.RecentChangesHelp","ext.gadget.RecentChangesProbCat","ext.gadget.RecentChangesAvblockering","ext.gadget.ExternalSearchEngines","ext.gadget.Wdsearch",
+"ext.gadget.UppladdningarContentSub","ext.gadget.IP-whois","ext.gadget.GroupIndicators","ext.gadget.BlockIndicator","ext.gadget.NewSection","ext.gadget.KategoriTOC","ext.gadget.teahouse","ext.gadget.ExkluderaRobotskapadeSidor","ext.gadget.LocalHelpLinks","ext.gadget.Nearby","ext.gadget.InterProjectLinks","ext.gadget.cgiircbox","ext.gadget.withJS","ext.gadget.CommonsFileLinks","ext.gadget.tableSorterCollation","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"sv"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=sv&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=ext.gadget.babel%2Cerror%2Cgeo%2Cmainpage%2Cprintonly%2Ctags%2Cwarnings&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.37.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:title" content="Wikipedia, den fria encyklopedin"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//sv.m.wikipedia.org/wiki/Portal:Huvudsida"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia flöde för utmärkta artiklar" href="/w/api.php?action=featuredfeed&amp;feed=featured&amp;feedformat=atom"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia flöde för &quot;Dagens datum...&quot;" href="/w/api.php?action=featuredfeed&amp;feed=onthisday&amp;feedformat=at<!DOCTYPE html>
+<html class="client-nojs" lang="sv" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia, den fria encyklopedin</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"],"wgRequestId":"02e8dd3a-11aa-4db3-8751-7091464b55c4","wgCSPNonce":!1,"wgCanonicalNamespace":"Portal","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":100,"wgPageName":"Portal:Huvudsida","wgTitle":"Huvudsida","wgCurRevisionId":49272499,"wgRevisionId":49272499,"wgArticleId":902605,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Huvudsida"],"wgPageContentLanguage":"sv","wgPageContentModel":"wikitext","wgRelevantPageName":"Portal:Huvudsida","wgRelevantArticleId":902605,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],
+"wgIsMainPage":!0,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"sv","pageLanguageDir":"ltr","pageVariantFallbacks":"sv"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"svenska","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q5296"};RLSTATE={"ext.gadget.mainpage":"ready","ext.gadget.babel":"ready","ext.gadget.geo":"ready","ext.gadget.warnings":"ready","ext.gadget.tags":"ready","ext.gadget.error":"ready","ext.gadget.printonly":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.editsection0","ext.gadget.EdittoolsAboveSummary","ext.gadget.Namespace-sensitiveEdittools","ext.gadget.Fullscreen","ext.gadget.Teckenstorlek","ext.gadget.ValValidering","ext.gadget.labelfilter","ext.gadget.ReferenceTooltips","ext.gadget.ProtectionIndicators","ext.gadget.GeoboxLocatorMulti","ext.gadget.Noarticletext","ext.gadget.InterwikiBadges","ext.gadget.collapsibleTables","ext.gadget.RecentChangesAdminNoms","ext.gadget.RecentChangesSFFR","ext.gadget.RecentChangesSnabbraderingar","ext.gadget.RecentChangesHelp","ext.gadget.RecentChangesProbCat","ext.gadget.RecentChangesAvblockering","ext.gadget.ExternalSearchEngines","ext.gadget.Wdsearch",
+"ext.gadget.UppladdningarContentSub","ext.gadget.IP-whois","ext.gadget.GroupIndicators","ext.gadget.BlockIndicator","ext.gadget.NewSection","ext.gadget.KategoriTOC","ext.gadget.teahouse","ext.gadget.ExkluderaRobotskapadeSidor","ext.gadget.LocalHelpLinks","ext.gadget.Nearby","ext.gadget.InterProjectLinks","ext.gadget.cgiircbox","ext.gadget.withJS","ext.gadget.CommonsFileLinks","ext.gadget.tableSorterCollation","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"sv"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=sv&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=ext.gadget.babel%2Cerror%2Cgeo%2Cmainpage%2Cprintonly%2Ctags%2Cwarnings&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.37.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:title" content="Wikipedia, den fria encyklopedin"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//sv.m.wikipedia.org/wiki/Portal:Huvudsida"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia flöde för utmärkta artiklar" href="/w/api.php?action=featuredfeed&amp;feed=featured&amp;feedformat=atom"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia flöde för &quot;Dagens datum...&quot;" href="/w/api.php?action=featuredfeed&amp;feed=onthisday&amp;feedfo<!DOCTYPE html>
+<html class="client-nojs" lang="sv" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia, den fria encyklopedin</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"],"wgRequestId":"02e8dd3a-11aa-4db3-8751-7091464b55c4","wgCSPNonce":!1,"wgCanonicalNamespace":"Portal","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":100,"wgPageName":"Portal:Huvudsida","wgTitle":"Huvudsida","wgCurRevisionId":49272499,"wgRevisionId":49272499,"wgArticleId":902605,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Huvudsida"],"wgPageContentLanguage":"sv","wgPageContentModel":"wikitext","wgRelevantPageName":"Portal:Huvudsida","wgRelevantArticleId":902605,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],
+"wgIsMainPage":!0,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"sv","pageLanguageDir":"ltr","pageVariantFallbacks":"sv"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"svenska","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q5296"};RLSTATE={"ext.gadget.mainpage":"ready","ext.gadget.babel":"ready","ext.gadget.geo":"ready","ext.gadget.warnings":"ready","ext.gadget.tags":"ready","ext.gadget.error":"ready","ext.gadget.printonly":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.editsection0","ext.gadget.EdittoolsAboveSummary","ext.gadget.Namespace-sensitiveEdittools","ext.gadget.Fullscreen","ext.gadget.Teckenstorlek","ext.gadget.ValValidering","ext.gadget.labelfilter","ext.gadget.ReferenceTooltips","ext.gadget.ProtectionIndicators","ext.gadget.GeoboxLocatorMulti","ext.gadget.Noarticletext","ext.gadget.InterwikiBadges","ext.gadget.collapsibleTables","ext.gadget.RecentChangesAdminNoms","ext.gadget.RecentChangesSFFR","ext.gadget.RecentChangesSnabbraderingar","ext.gadget.RecentChangesHelp","ext.gadget.RecentChangesProbCat","ext.gadget.RecentChangesAvblockering","ext.gadget.ExternalSearchEngines","ext.gadget.Wdsearch",
+"ext.gadget.UppladdningarContentSub","ext.gadget.IP-whois","ext.gadget.GroupIndicators","ext.gadget.BlockIndicator","ext.gadget.NewSection","ext.gadget.KategoriTOC","ext.gadget.teahouse","ext.gadget.ExkluderaRobotskapadeSidor","ext.gadget.LocalHelpLinks","ext.gadget.Nearby","ext.gadget.InterProjectLinks","ext.gadget.cgiircbox","ext.gadget.withJS","ext.gadget.CommonsFileLinks","ext.gadget.tableSorterCollation","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"sv"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=sv&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=ext.gadget.babel%2Cerror%2Cgeo%2Cmainpage%2Cprintonly%2Ctags%2Cwarnings&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.37.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:title" content="Wikipedia, den fria encyklopedin"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//sv.m.wikipedia.org/wiki/Portal:Huvudsida"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia flöde för utmärkta artiklar" href="/w/api.php?action=featuredfeed&amp;feed=featured&amp;feedformat=atom"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia flöde för &quot;Dagens datum...&quot;" href="/w/api.php?action=featuredfeed&amp;feed=onthisday&amp;feedformat=atom"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (sv)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//sv.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://sv.wikipedia.org/wiki/Portal:Huvudsida"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject page-Portal_Huvudsida rootpage-Portal_Huvudsida skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">mat=atom"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (sv)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//sv.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://sv.wikipedia.org/wiki/Portal:Huvudsida"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject page-Portal_Huvudsida rootpage-Portal_Huvudsida skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">om"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (sv)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//sv.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://sv.wikipedia.org/wiki/Portal:Huvudsida"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject page-Portal_Huvudsida rootpage-Portal_Huvudsida skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">atom"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia flöde för &quot;Dagens datum...&quot;" href="/w/api.php?action=featuredfeed&amp;feed=onthisday&amp;feedformat=atom"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (sv)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//sv.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://sv.wikipedia.org/wiki/Portal:Huvudsida"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject page-Portal_Huvudsida rootpage-Portal_Huvudsida skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main"> and (max-width: 720px)" href="//sv.m.wikipedia.org/wiki/Portal:Huvudsida"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia flöde för utmärkta artiklar" href="/w/api.php?action=featuredfeed&amp;feed=featured&amp;feedformat=atom"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia flöde för &quot;Dagens datum...&quot;" href="/w/api.php?action=featuredfeed&amp;feed=onthisday&amp;feedformat=atom"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (sv)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//sv.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://sv.wikipedia.org/wiki/Portal:Huvudsida"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject page-Portal_Huvudsida rootpage-Portal_Huvudsida skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">;feed=featured&amp;feedformat=atom"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia flöde för &quot;Dagens datum...&quot;" href="/w/api.php?action=featuredfeed&amp;feed=onthisday&amp;feedformat=atom"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (sv)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//sv.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://sv.wikipedia.org/wiki/Portal:Huvudsida"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject page-Portal_Huvudsida rootpage-Portal_Huvudsida skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">+xml" title="Wikipedia flöde för utmärkta artiklar" href="/w/api.php?action=featuredfeed&amp;feed=featured&amp;feedformat=atom"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia flöde för &quot;Dagens datum...&quot;" href="/w/api.php?action=featuredfeed&amp;feed=onthisday&amp;feedformat=atom"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (sv)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//sv.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://sv.wikipedia.org/wiki/Portal:Huvudsida"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject page-Portal_Huvudsida rootpage-Portal_Huvudsida skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">ype="application/atom+xml" title="Wikipedia flöde för utmärkta artiklar" href="/w/api.php?action=featuredfeed&amp;feed=featured&amp;feedformat=atom"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia flöde för &quot;Dagens datum...&quot;" href="/w/api.php?action=featuredfeed&amp;feed=onthisday&amp;feedformat=atom"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (sv)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//sv.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://sv.wikipedia.org/wiki/Portal:Huvudsida"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject page-Portal_Huvudsida rootpage-Portal_Huvudsida skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">dia="only screen and (max-width: 720px)" href="//sv.m.wikipedia.org/wiki/Portal:Huvudsida"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia flöde för utmärkta artiklar" href="/w/api.php?action=featuredfeed&amp;feed=featured&amp;feedformat=atom"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia flöde för &quot;Dagens datum...&quot;" href="/w/api.php?action=featuredfeed&amp;feed=onthisday&amp;feedformat=atom"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (sv)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//sv.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://sv.wikipedia.org/wiki/Portal:Huvudsida"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject page-Portal_Huvudsida rootpage-Portal_Huvudsida skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">e="application/atom+xml" title="Wikipedia flöde för utmärkta artiklar" href="/w/api.php?action=featuredfeed&amp;feed=featured&amp;feedformat=atom"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia flöde för &quot;Dagens datum...&quot;" href="/w/api.php?action=featuredfeed&amp;feed=onthisday&amp;feedformat=atom"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (sv)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//sv.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://sv.wikipedia.org/wiki/Portal:Huvudsida"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject page-Portal_Huvudsida rootpage-Portal_Huvudsida skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">sen 
